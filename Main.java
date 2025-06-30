@@ -1,4 +1,4 @@
-package klassnayadzz;
+package klassnayadzz.klassnayadzz;
 class Hero {
     String name;
     int health;
